@@ -5,7 +5,7 @@ AnonCreds Methods Registry
 
 **Source Content:**
 
-[https://github.com/hyperledger/anoncreds-methods-registry](https://github.com/hyperledger/anoncreds-methods-registry)
+[https://github.com/anoncreds/anoncreds-methods-registry](https://github.com/anoncreds/anoncreds-methods-registry)
 
 **Editors:**
 
@@ -18,8 +18,8 @@ AnonCreds Methods Registry
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/hyperledger/anoncreds-methods-registry)
-~ [Commit history](https://github.com/hyperledger/anoncreds-methods-registry/commits/main)
+~ [GitHub repo](https://github.com/anoncreds/anoncreds-methods-registry)
+~ [Commit history](https://github.com/anoncreds/anoncreds-methods-registry/commits/main)
 ~ [Discord](https://discord.gg/hyperledger)
 
 ------------------------------------

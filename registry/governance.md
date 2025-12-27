@@ -3,7 +3,7 @@
 This registry is managed by the [AnonCreds Specification Working
 Group](https://github.com/hyperledger). The contents of the registry is
 maintained in a [GitHub
-repository](https://github.com/hyperledger/anoncreds-methods-registry)
+repository](https://github.com/anoncreds/anoncreds-methods-registry)
 and managed through a pull request submission, review and approval process. The
 details of how pull requests are managed is outlined in this Governance section
 of the registry.
@@ -44,12 +44,12 @@ There are two types of content in the source repository for the registry:
     AnonCreds methods.
   - The format of the entries MUST adhere to the guidelines defined in the
     [Method
-    Template](https://github.com/hyperledger/anoncreds-methods-registry/blob/main/registry/method_template.md),
+    Template](https://github.com/anoncreds/anoncreds-methods-registry/blob/main/registry/method_template.md),
 as defined by the [AnonCreds Specification Working
 Group](https://wiki.hyperledger.org/display/ANONCREDS/AnonCreds+Specification+Working+Group).
 
 - All other content in the registry and [registry
-  repository](https://github.com/hyperledger/anoncreds-methods-registry)
+  repository](https://github.com/anoncreds/anoncreds-methods-registry)
   - Such content is governed by the [AnonCreds Specification Working
 Group](https://wiki.hyperledger.org/display/ANONCREDS/AnonCreds+Specification+Working+Group), and
     includes things like this Governance section of the registry, the format of

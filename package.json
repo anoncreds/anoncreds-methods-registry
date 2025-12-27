@@ -11,9 +11,9 @@
     "dev": "node -e \"require('spec-up')({ dev: true })\""
   },
   "bugs": {
-    "url": "https://github.com/hyperledger/anoncreds-methods-registry"
+    "url": "https://github.com/anoncreds/anoncreds-methods-registry"
   },
-  "homepage": "https://github.com/hyperledger/anoncreds-methods-registry",
+  "homepage": "https://github.com/anoncreds/anoncreds-methods-registry",
   "dependencies": {
     "spec-up": "github:brianorwhatever/spec-up#master"
   }
